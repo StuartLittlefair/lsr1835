@@ -2,7 +2,7 @@
 ## Code and Data
 
 ### Keck data
-Individual spectra are given in tar files, one for each arm (Blue/Red)
+Individual flux and wavelength calibrated spectra are given in tar files, one for each arm (Blue/Red)
 of LRIS. The tar files contain spectra as ascii files with format
 wavelength (AA), flux (mJy) and error. An additional file provides HJD
 for each spectrum.
@@ -13,3 +13,4 @@ to lightcurves in narrow wavelength bins (amplSpectrum). The lightcurves themsel
 are also provided.
 
 ### Palomar data
+Flux and wavelength calibrated Palomar spectra are provided in the same format.
