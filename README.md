@@ -7,6 +7,8 @@ of LRIS. The tar files contain spectra as ascii files with format
 wavelength (AA), flux (mJy) and error. An additional file provides HJD
 for each spectrum.
 
+High state and low state spectra are given in the same format, but without uncertainties.
+
 The difference spectrum between high and low states is provided, as is
 a second estimate of the difference spectrum, derived from fitting sinusoids
 to lightcurves in narrow wavelength bins (amplSpectrum). The lightcurves themselves
