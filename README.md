@@ -16,3 +16,8 @@ are also provided.
 
 ### Palomar data
 Flux and wavelength calibrated Palomar spectra are provided in the same format.
+
+### Scripts
+Python scripts for modelling the code are included in the scripts directory. It is
+hoped that these are sufficiently well commented to understand their use. Please 
+contact Stuart Littlefair (s.littlefair@shef.ac.uk) if you have any questions.
